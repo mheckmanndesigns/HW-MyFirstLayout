@@ -1,0 +1,21 @@
+/* Header Styling */
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 250px;
+    border-block-end: 2px;
+
+    /* H1 Styling */
+}
+#AboutMe {
+    display: grid;
+    font-family: 'Livvic', sans-serif;
+    font-size: 40px;
+    color: aquamarine;
+}
+
+
+
